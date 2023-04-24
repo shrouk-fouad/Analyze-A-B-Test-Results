@@ -12,6 +12,6 @@ For this project, we will be working to understand the results of an A/B test ru
 * Statsmodels
 
 ## Findings
-1- P-value for countries is higher than .05, hence countries have no significant influence on conversion rates.- 
-2- P-value for interactions is higher than .05, which suggests that there is no significant influence of landing pages in the US and Canada on conversion rates.
-3- The results of this test suggest that the new page doesn't have a higher conversion rate than the old page, so the company shouldn't implement the new page.
+1. P-value for countries is higher than .05, hence countries have no significant influence on conversion rates.
+2. P-value for interactions is higher than .05, which suggests that there is no significant influence of landing pages in the US and Canada on conversion rates.
+3. The results of this test suggest that the new page doesn't have a higher conversion rate than the old page, so the company shouldn't implement the new page.
